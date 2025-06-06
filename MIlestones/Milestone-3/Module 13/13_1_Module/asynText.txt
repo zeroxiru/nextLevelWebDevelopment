@@ -1,0 +1,3 @@
+The AST (Abstract Syntax Tree) is created before execution, during the compile phase (NOT during execution).
+Memory allocation (hoisting variables/functions) happens after parsing but before execution.
+Execution happens after all that — using either interpreter or JIT compiled machine code

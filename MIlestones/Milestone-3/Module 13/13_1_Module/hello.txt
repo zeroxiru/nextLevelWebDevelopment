@@ -1,0 +1,1 @@
+I love programming. If you're interested, I can show you the asynchronous version and compare how its output order differs due to non-blocking behavior. Let me know if you'd like to explore that version.
